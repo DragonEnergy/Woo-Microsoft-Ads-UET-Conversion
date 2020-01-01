@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: WooCommerce Microsoft Ads Conversion Tracking
- * Plugin URI: http://webdev.logicalposition.com
- * Description: Logical Position's WooCommerce Microsoft Ads Conversion Tracking Code
- * Author: Logical Position
- * Author URI: http://logicalposition.com
+ * Plugin URI: https://apogee.media.com
+ * Description: Apogee Media WooCommerce Microsoft Ads Conversion Tracking Code
+ * Author: Andres de la Garza
+ * Author URI: https://apogee.media.com
  * Version: 0.1.2
  **/
 
