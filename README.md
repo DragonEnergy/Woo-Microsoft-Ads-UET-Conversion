@@ -5,4 +5,4 @@ Uses the woocommerce_thankyou add_action for handling the conversion tracking on
 
 Next iteration will support dynamic remarketing
 
-Was made by Andres de la Garza for Apogee.Media
+Was made by Andres de la Garza for https://apogee.media
