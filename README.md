@@ -1,4 +1,5 @@
-﻿# WooCommerce-Mads-UET-tracking
+﻿# WooCommerce Microsoft Ads Conversion Tracking Plugin
+ 
 This allows WooCommerce users to insert UET dynamically on site and track revenue on All WooCommerce Purchases on site.
 
 Uses the woocommerce_thankyou add_action for handling the conversion tracking on purchases. 
